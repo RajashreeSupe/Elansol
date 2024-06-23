@@ -1,0 +1,43 @@
+
+
+ .d1 {
+    width: 50%;
+    height: 96%;
+    background-color:rgb(153, 153, 225);
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left: 23%;
+    margin-top: 5%;
+  }
+  
+
+
+  
+ 
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .btn-block{
+        background-color:rgb(25, 2, 88);
+        color: white;
+  }
+
+  .btn-block-t{
+    background-color:rgb(25, 2, 88);
+        color: white;
+        text-align: center;
+
+  }
+
+  .jj{
+    text-align: center;
+    margin-top: 2%;
+
+  }
